@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bairy-abhilash <br>
+- 👋 Hi, I’m Abhilash Bairy <br>
 - 👀 I’m interested in Cooking <br>
 - 🌱 I’m currently learning git <br>
 
